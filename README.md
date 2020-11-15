@@ -1,2 +1,2 @@
 # STM32-MIG-Controller
-https://github.com/Vitech-UA/STM32-MIG-Controller/issues/1#issue-743337660
+![pcb_photo](https://user-images.githubusercontent.com/74230330/99195951-c09a2200-2791-11eb-808d-a1d1c1c6bdc9.JPG)
